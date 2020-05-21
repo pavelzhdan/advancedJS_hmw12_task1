@@ -1,4 +1,3 @@
-import Buyable from '../domain/Buyable';
 import Cart from '../service/Cart'
 import Movie from '../domain/Movie'
 
